@@ -1,18 +1,13 @@
-### Hi there 👋
+<p>
+  <h1 align="center"><b>Hi there, I'm Albert </h1>
+</p>
+<p align="center">
+<a href="https://thealbert.dev/"><img src="https://img.shields.io/badge/Website-149c90?style=for-the-badge&logo=iterm2&logoColor=white alt="Website" /></a>&nbsp;
+<a href="https://twitter.com/thealbertdev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.instagram.com/thealbertdev/"><img src="https://img.shields.io/badge/Instagram-FCAF45?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/thealbertdev/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn" /></a>&nbsp;
+</p>
+<br />
 
-<!--
-**TheAlbertDev/TheAlbertDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
--->
+<p align="center"></p>
+<p></p>
