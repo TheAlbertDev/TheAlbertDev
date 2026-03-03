@@ -44,6 +44,7 @@ I'm passionate about making complex engineering accessible: through courses, pub
 
 ## What I Do
 
+<!-- prettier-ignore-start -->
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -64,8 +65,11 @@ I'm passionate about making complex engineering accessible: through courses, pub
 - Published researcher across energy harvesting, self-powered systems, point-of-care diagnostics, wearable biosensors, and sustainable hardware design
 
     </td>
+
   </tr>
 </table>
+
+<!-- prettier-ignore-end -->
 
 ---
 
@@ -141,8 +145,8 @@ A selection across journals, conferences, patents, and books. Full list at [thea
 
 **Patents**
 
-- [Self-powered Device and Method for Measuring a Parameter of a Sensing Power Cell](https://patents.google.com/?q=WO/2022/129270) — WO/2022/129270
-- [Self-powered System and Method for Power Extraction and Measurement of Energy-generator Units](https://patents.google.com/?q=WO/2021/009276) — WO/2021/009276
+- [Self-powered Device and Method for Measuring a Parameter of a Sensing Power Cell](<https://patents.google.com/patent/WO2022129270A1/en?oq=(WO%2f2022%2f129270)&peid=64c264a8661c8%3A15%3Ac9e254fb>) — WO/2022/129270
+- [Self-powered System and Method for Power Extraction and Measurement of Energy-generator Units](<https://patents.google.com/patent/WO2021009276A1/en?oq=(WO%2f2021%2f009276)&peid=64c264d029cc8%3Ab%3A2f3a50b7>) — WO/2021/009276
 
 ---
 
