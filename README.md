@@ -63,10 +63,9 @@ I'm passionate about making complex engineering accessible: through courses, pub
 - Creator of **MASB** — a structured firmware engineering course for STM32
 - Published researcher across energy harvesting, self-powered systems, point-of-care diagnostics, wearable biosensors, and sustainable hardware design
 
-      </td>
-
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
